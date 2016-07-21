@@ -2,6 +2,7 @@ name: VBCoach
 favicon: null
 layout_spectrum: 0.3657851815223694
 typography_spectrum: 0.23486002045683563
+title: VB Coach
 cta:
   domain: null
   bucket: null
