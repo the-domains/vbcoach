@@ -4,8 +4,15 @@
         <description><![CDATA[VB Coach]]></description>
         <link>https://thegrid.ai/vbcoach/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 14:29:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2016 15:01:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vbcoach/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[VBCoach Home]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/387b1480-7af0-4107-ab07-10978da4e2f5.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/387b1480-7af0-4107-ab07-10978da4e2f5.jpg</link>
+            <guid isPermaLink="false">35d6aa8b-2f3a-4eda-9e7f-84851a510e0b</guid>
+            <pubDate>Thu, 21 Jul 2016 15:01:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Helping Every Kid Understand Their Role on a Team</p>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/vbcoach/recently-ive-been-reading-the-book/index.html</link>
             <guid isPermaLink="false">bc10cad6-106e-4d6b-a2b5-a7e6176bb06d</guid>
             <pubDate>Thu, 21 Jul 2016 14:11:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/387b1480-7af0-4107-ab07-10978da4e2f5.jpg">]]></description>
-            <link>https://thegrid.ai/vbcoach/this-site-is-intended-to-serve-two-primary-purposes-the-fir/index.html</link>
-            <guid isPermaLink="false">35d6aa8b-2f3a-4eda-9e7f-84851a510e0b</guid>
-            <pubDate>Thu, 21 Jul 2016 13:56:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
