@@ -4,7 +4,7 @@
         <description><![CDATA[VB Coach]]></description>
         <link>https://thegrid.ai/vbcoach/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 15:01:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2016 15:02:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vbcoach/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[VBCoach Home]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/vbcoach/one-of-the-things-that-ive-learned-over-the-last-few-months/index.html</link>
             <guid isPermaLink="false">507675ac-abe5-46ff-b8a5-083bc2c590b8</guid>
             <pubDate>Thu, 21 Jul 2016 14:28:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/71ddc3c3-8d1c-4c40-89dc-7cfabe51ded8.jpg">]]></description>
-            <link>https://thegrid.ai/vbcoach/recently-ive-been-reading-the-book/index.html</link>
-            <guid isPermaLink="false">bc10cad6-106e-4d6b-a2b5-a7e6176bb06d</guid>
-            <pubDate>Thu, 21 Jul 2016 14:11:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
