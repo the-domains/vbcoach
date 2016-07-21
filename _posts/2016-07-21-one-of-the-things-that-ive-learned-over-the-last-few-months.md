@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
 description: Helping Every Kid Understand Their Role on a Team
-datePublished: '2016-07-21T14:28:34.157Z'
-dateModified: '2016-07-21T14:28:02.643Z'
+datePublished: '2016-07-21T15:01:29.096Z'
+dateModified: '2016-07-21T15:00:32.403Z'
 title: ''
 author: []
 via: {}
@@ -16,7 +16,7 @@ authors: []
 publisher: {}
 starred: false
 url: one-of-the-things-that-ive-learned-over-the-last-few-months/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4fc09a3-2fd2-4054-8ea5-7e7cf90938a5.jpg)
