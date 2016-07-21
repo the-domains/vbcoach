@@ -1,25 +1,21 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
 description: 'The COMT Gene, Long Ring Fingers and Female Competitiveness'
-datePublished: '2016-07-21T14:11:28.614Z'
-dateModified: '2016-07-21T14:11:11.592Z'
+datePublished: '2016-07-21T15:01:25.766Z'
+dateModified: '2016-07-21T15:00:03.890Z'
 title: ''
 author: []
 via: {}
 sourcePath: _posts/2016-07-21-recently-ive-been-reading-the-book.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 starred: false
 url: recently-ive-been-reading-the-book/index.html
-_type: Article
+_type: MediaObject
 
 ---
 **[The COMT Gene, Long Ring Fingers and Female Competitiveness][0]**
