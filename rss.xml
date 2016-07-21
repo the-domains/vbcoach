@@ -4,7 +4,7 @@
         <description><![CDATA[VB Coach]]></description>
         <link>https://thegrid.ai/vbcoach/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 15:02:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2016 15:02:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vbcoach/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[VBCoach Home]]></title>
@@ -12,13 +12,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/387b1480-7af0-4107-ab07-10978da4e2f5.jpg</link>
             <guid isPermaLink="false">35d6aa8b-2f3a-4eda-9e7f-84851a510e0b</guid>
             <pubDate>Thu, 21 Jul 2016 15:01:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Helping Every Kid Understand Their Role on a Team</p>]]></description>
-            <link>https://thegrid.ai/vbcoach/one-of-the-things-that-ive-learned-over-the-last-few-months/index.html</link>
-            <guid isPermaLink="false">507675ac-abe5-46ff-b8a5-083bc2c590b8</guid>
-            <pubDate>Thu, 21 Jul 2016 14:28:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
