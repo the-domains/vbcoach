@@ -12,8 +12,8 @@ description: >-
   have intrigued me and have encouraged me to think about the idea that female
   athletes benefit from competition in practice, though it may not always make
   them the most comfortable.
-datePublished: '2016-07-21T15:03:21.589Z'
-dateModified: '2016-07-21T15:03:10.891Z'
+datePublished: '2016-07-21T15:03:52.715Z'
+dateModified: '2016-07-21T15:03:26.223Z'
 title: ''
 author: []
 via: {}
