@@ -4,25 +4,27 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Recently I've been reading the book
-datePublished: '2016-07-21T14:03:48.978Z'
-dateModified: '2016-07-21T14:03:24.800Z'
+description: 'The COMT Gene, Long Ring Fingers and Female Competitiveness'
+datePublished: '2016-07-21T14:11:28.614Z'
+dateModified: '2016-07-21T14:11:11.592Z'
 title: ''
 author: []
 via: {}
-authors: []
-publisher: {}
-starred: false
 sourcePath: _posts/2016-07-21-recently-ive-been-reading-the-book.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
 url: recently-ive-been-reading-the-book/index.html
 _type: Article
 
 ---
-Recently I've been reading the book[][0]
+**[The COMT Gene, Long Ring Fingers and Female Competitiveness][0]**
 
-[Top Dog][0]
-
-[by Po Bronson and Ashley Merryman][0]and I've learned a few interesting things that have really encouraged me to continue to stat my female athletes in practice and let them compete on a daily basis for the top spots on their teams. Let me share 2 main ideas that have intrigued me and have encouraged me to think about the idea that female athletes benefit from competition in practice, though it may not always make them the most comfortable.
+Recently I've been reading the book [Top Dog][1]****[by Po Bronson and Ashley Merryman][1] and I've learned a few interesting things that have really encouraged me to continue to stat my female athletes in practice and let them compete on a daily basis for the top spots on their teams. Let me share 2 main ideas that have intrigued me and have encouraged me to think about the idea that female athletes benefit from competition in practice, though it may not always make them the most comfortable.
 
 Please forgive the brief summary. Read the book for greater detail if this is not enough information.
 
@@ -40,4 +42,5 @@ God Bless,
 Chris Powers
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/71ddc3c3-8d1c-4c40-89dc-7cfabe51ded8.jpg)
 
-[0]: https://www.amazon.com/Top-Dog-Science-Winning-Losing/dp/1455515140
+[0]: http://faithvbc.club/wp-admin/post.php?post=664&action=edit
+[1]: https://www.amazon.com/Top-Dog-Science-Winning-Losing/dp/1455515140
