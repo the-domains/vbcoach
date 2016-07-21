@@ -1,7 +1,9 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/387b1480-7af0-4107-ab07-10978da4e2f5.jpg
 inLanguage: null
 keywords: []
 description: >-
@@ -10,18 +12,21 @@ description: >-
   useful. Second, it is a place where coaches, parents and players can get
   distance coaching advice. Individuals or teams can send video of themselves to
   be critiqued and evaluated for a reasonable fee.
-datePublished: '2016-07-21T13:56:47.477Z'
-dateModified: '2016-07-21T13:56:18.431Z'
+datePublished: '2016-07-21T15:01:21.385Z'
+dateModified: '2016-07-21T15:01:06.385Z'
 title: ''
 author: []
 via: {}
-authors: []
-publisher: {}
-starred: false
 sourcePath: >-
   _posts/2016-07-21-this-site-is-intended-to-serve-two-primary-purposes-the-fir.md
-url: this-site-is-intended-to-serve-two-primary-purposes-the-fir/index.html
-_type: Article
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: true
+_type: MediaObject
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/387b1480-7af0-4107-ab07-10978da4e2f5.jpg)
