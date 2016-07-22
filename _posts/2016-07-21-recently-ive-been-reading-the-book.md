@@ -12,20 +12,16 @@ description: >-
   have intrigued me and have encouraged me to think about the idea that female
   athletes benefit from competition in practice, though it may not always make
   them the most comfortable.
-datePublished: '2016-07-21T15:03:52.715Z'
-dateModified: '2016-07-21T15:03:26.223Z'
+datePublished: '2016-07-22T15:05:43.705Z'
+dateModified: '2016-07-22T15:05:43.611Z'
 title: ''
 author: []
 via: {}
 sourcePath: _posts/2016-07-21-recently-ive-been-reading-the-book.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 starred: false
-url: recently-ive-been-reading-the-book/index.html
+url: the-comt-gene-long-ring-fingers-and-female-competitiveness/index.html
 _type: MediaObject
 
 ---
