@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Helping Every Kid Understand Their Role on a Team
-datePublished: '2016-07-21T15:01:29.096Z'
-dateModified: '2016-07-21T15:00:32.403Z'
+datePublished: '2016-07-22T15:07:43.376Z'
+dateModified: '2016-07-22T15:07:43.262Z'
 title: ''
 author: []
 via: {}
@@ -15,7 +15,7 @@ sourcePath: >-
 authors: []
 publisher: {}
 starred: false
-url: one-of-the-things-that-ive-learned-over-the-last-few-months/index.html
+url: helping-every-kid-understand-their-role-on-a-team/index.html
 _type: Blurb
 
 ---
