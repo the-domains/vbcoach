@@ -1,20 +1,4 @@
-name: VBCoach
-favicon: null
-layout_spectrum: 0.5654629615601152
-typography_spectrum: 0.3507000997196883
-title: VB Coach
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+typography_spectrum: 0.23486002045683563
 color:
   brandColors:
     - '#000000'
@@ -26,4 +10,25 @@ color:
   lightness: 0.5
   saturation: 0.8125
   rhythmicContrast: 0.2871082150377333
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.94335
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: VBCoach
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - id: e29395dc-89e7-4073-904b-0bcc7b91c901
+    url: 2016-07-21-recently-ive-been-reading-the-book.html
+    name: 'The COMT Gene, Long Ring Fingers and Female Competitiveness'
+    type: content
+favicon: null
+title: VB Coach
 purpose: []
