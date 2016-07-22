@@ -12,20 +12,16 @@ description: >-
   useful. Second, it is a place where coaches, parents and players can get
   distance coaching advice. Individuals or teams can send video of themselves to
   be critiqued and evaluated for a reasonable fee.
-datePublished: '2016-07-21T15:01:21.385Z'
-dateModified: '2016-07-21T15:01:06.385Z'
+datePublished: '2016-07-22T13:32:54.177Z'
+dateModified: '2016-07-22T13:32:35.562Z'
 title: ''
 author: []
 via: {}
 sourcePath: >-
   _posts/2016-07-21-this-site-is-intended-to-serve-two-primary-purposes-the-fir.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-starred: true
+publisher: {}
+starred: false
 _type: MediaObject
 
 ---
